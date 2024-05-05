@@ -3,7 +3,7 @@
 ### Design Document
 
 #### 1. Introduction
-Fantasy Forge is designed to be an all-in-one platform for creative individuals looking to build and manage extensive fictional worlds. The app integrates several tools into a single environment, providing a seamless experience for users looking to write novels, manage RPG campaigns, or develop games.
+Fantasy Forge- Story Bible is designed to be a platform for creative individuals looking to build and manage extensive fictional worlds. The app integrates several tools into a single environment, providing a seamless experience for users looking to write novels, manage RPG campaigns, or develop games.
 
 #### 2. System Overview
 Fantasy Forge will be developed using SwiftUI for a consistent experience across iOS and macOS devices. The app will leverage Core Data for local data management and synchronization capabilities across devices.
