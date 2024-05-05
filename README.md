@@ -1,5 +1,3 @@
-Creating a comprehensive README and Design Document for your app, Fantasy Forge, is essential for guiding both your development team and potential users. Here’s a draft for both documents to help you get started:
-
 ### README.md
 
 ### Design Document
